@@ -1,6 +1,6 @@
 # Xyris Desktop - Proprietary License
 
-Copyright © 2025 Laplacio Technologies JSC. All rights reserved.
+Copyright © 2026 Laplacio Technologies JSC. All rights reserved.
 
 This software is proprietary and confidential. All rights are reserved by the author.
 
