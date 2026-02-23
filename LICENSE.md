@@ -1,6 +1,6 @@
 # Xyris Desktop - End User License Agreement (EULA)
 
-Copyright © 2025 Laplacio Technologies JSC. All rights reserved.
+Copyright © 2026 Laplacio Technologies JSC. All rights reserved.
 
 ## 1. License Grant
 
